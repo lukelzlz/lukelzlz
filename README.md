@@ -26,31 +26,6 @@
 
 ---
 
-### 🤖 Daily AI Agent Harness & Tools
-
-<table border="0" style="border: none; border-collapse: collapse;">
-  <tr align="center">
-    <td width="120" style="border: none;">
-      <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity" /><br/>
-      <sub><b>Antigravity</b></sub>
-    </td>
-    <td width="120" style="border: none;">
-      <img src="assets/codex.png" width="48" height="48" alt="Codex" /><br/>
-      <sub><b>Codex</b></sub>
-    </td>
-    <td width="120" style="border: none;">
-      <img src="assets/pi.png" width="48" height="48" alt="Pi" /><br/>
-      <sub><b>Pi</b></sub>
-    </td>
-    <td width="120" style="border: none;">
-      <img src="assets/opencode.png" width="48" height="48" alt="OpenCode" /><br/>
-      <sub><b>OpenCode</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
