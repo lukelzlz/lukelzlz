@@ -26,20 +26,13 @@
 
 ---
 
-### 🧰 Daily Tools & Workflow
+### 🤖 Daily AI Agent Harness & Tools
 
 <p align="left">
-  <!-- Game Dev & Note-taking -->
-  <img src="https://img.shields.io/badge/Unity_Hub-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-</p>
-
-<p align="left">
-  <!-- AI Coding Agents & Harnesses -->
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pi-D97706?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode-18181B?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pi-Coding_Agent-D97706?style=for-the-badge&logo=data:image/svg%2bxml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%20width%3D%2224%22%20height%3D%2224%22%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2219%22%20text-anchor%3D%22middle%22%20fill%3D%22white%22%20font-family%3D%22sans-serif%22%20font-weight%3D%22bold%22%20font-size%3D%2222%22%3E%CF%80%3C/text%3E%3C/svg%3E" />
+  <img src="https://img.shields.io/badge/OpenCode-Agent-24292F?style=for-the-badge&logo=data:image/svg%2bxml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%20width%3D%2224%22%20height%3D%2224%22%3E%3Cpath%20d%3D%22M8.5%207L3.5%2012L8.5%2017M15.5%207L20.5%2012L15.5%2017%22%20stroke%3D%22white%22%20stroke-width%3D%222.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%20fill%3D%22none%22/%3E%3C/svg%3E" />
 </p>
 
 ---
