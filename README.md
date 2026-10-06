@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 打字机动态 Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D97706&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Luke+%F0%9F%91%8B;%E4%BC%9A%E4%B8%80%E7%9B%B4%E6%9C%89%E4%BA%BA%E9%99%AA%E4%BD%A0%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%9A%E4%B8%80%E7%9B%B4%E9%99%AA%E4%BD%A0%E3%80%82;Student+%E2%80%A2+Builder+%E2%80%A2+Tool+Enthusiast;Building+practical+%26+interesting+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D97706&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Luke+%F0%9F%91%8B;A+high+school+student+who+loves+coding;Student+%E2%80%A2+Builder+%E2%80%A2+Tool+Enthusiast;Building+practical+%26+interesting+things." alt="Typing SVG" />
 
   <p align="center">
     🎒 一个高中生 / 工具极客 / 保持好奇，用代码构建有趣的世界
@@ -23,7 +23,6 @@
   - **AI & Agent Infrastructure**：探索多模型协同、实时语音交互客户端与用量监控。
   - **Serverless & Edge**：喜欢用 Cloudflare Workers、轻量现代前端构建低维护成本的服务。
   - **Tooling & Media**：折腾阅读服务、数字档案与各类轻量日常工具。
-- 💬 **座右铭**：*“会一直有人陪你，没有人会一直陪你。”*
 
 ---
 
