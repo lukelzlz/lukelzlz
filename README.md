@@ -28,13 +28,26 @@
 
 ### 🤖 Daily AI Agent Harness & Tools
 
-<p align="left">
-  <!-- 官方 Simple Icons 库标准矢量图标 -->
-  <img src="https://img.shields.io/badge/Antigravity-DeepMind-4285F4?style=for-the-badge&logo=deepmind&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pi-Coding_Agent-D97706?style=for-the-badge&logo=pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" />
-</p>
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr align="center">
+    <td width="120" style="border: none;">
+      <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity" /><br/>
+      <sub><b>Antigravity</b></sub>
+    </td>
+    <td width="120" style="border: none;">
+      <img src="assets/codex.png" width="48" height="48" alt="Codex" /><br/>
+      <sub><b>Codex</b></sub>
+    </td>
+    <td width="120" style="border: none;">
+      <img src="assets/pi.png" width="48" height="48" alt="Pi" /><br/>
+      <sub><b>Pi</b></sub>
+    </td>
+    <td width="120" style="border: none;">
+      <img src="assets/opencode.png" width="48" height="48" alt="OpenCode" /><br/>
+      <sub><b>OpenCode</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
